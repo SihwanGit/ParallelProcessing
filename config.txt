@@ -1,0 +1,10 @@
+blockNum : 4
+variableNum : 4
+cfgType : loop
+defRate : 0.3
+useRate : 0.3
+loopRate : 0.1
+maxSucc : 2
+seed : 42
+allowOverlap : false
+allowSelfLoop : false
